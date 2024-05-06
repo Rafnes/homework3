@@ -12,8 +12,8 @@ public class Main {
         System.out.println("Значение переменной someShort с типом short равно " + someShort);
         System.out.println("Значение переменной someInt с типом int равно " + someInt);
         System.out.println("Значение переменной someLong с типом long равно " + someLong);
-        System.out.println("Значение переменной someFloat с типом short равно " + someFloat);
-        System.out.println("Значение переменной someDouble с типом short равно " + someDouble);
+        System.out.println("Значение переменной someFloat с типом float равно " + someFloat);
+        System.out.println("Значение переменной someDouble с типом double равно " + someDouble);
 
         //Задание 2
         float otherFloat = 27.12f;
